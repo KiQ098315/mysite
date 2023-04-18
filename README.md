@@ -4,6 +4,3 @@
 2. Run ``npm start`` to start website
 3. Deploy 👋
 
-**Please ⭐️ This Repo**
-
-[<img src="https://raw.githubusercontent.com/vemorr/chatty/main/Images/snapshot-bmc-button.png">]()
